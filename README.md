@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💬 Chatoon – Real-Time Chat Application with Firebase & Jetpack Compose
 
 ---
@@ -82,3 +83,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
+=======
+# Android_Chat_App
+>>>>>>> 4baf934f8a3199491ae2006475afe246440c6b1b
